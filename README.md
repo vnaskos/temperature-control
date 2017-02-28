@@ -1,14 +1,14 @@
-# Temperature Control (ATmega 16)
+# Temperature Control (ATmega16)
 
 ## Description
 
-This project works as a temperature contoller (Proof Of Concept). An ATmega 16 microcontroller reads the temperature from two sensors and regulates the speed of a fan accordingly.
+This project works as a temperature contoller (Proof Of Concept). An ATmega16 microcontroller reads the temperature from two sensors and regulates the speed of a fan accordingly.
 
 __Work objective.__ Increase the knowledge of programming of serial interfaces on ATmega16 microcontroller in the field of embedded systems.
 
 ## Parts Used
 
-* ATmega 16
+* ATmega16
 * TC74 temperature sensor (TWI)
 * LM35 temperature sensor (Analog)
 * Push buttons
